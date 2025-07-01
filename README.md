@@ -90,5 +90,5 @@ Clone o repositório e acompanhe os notebooks passo a passo:
 
 
 ```bash
-git clone https://github.com/seu-usuario/pandas-descomplicado.git
-cd pandas-descomplicado
+git clone https://github.com/seu-usuario/pandas-PandasStudy.git
+cd PandasStudy
